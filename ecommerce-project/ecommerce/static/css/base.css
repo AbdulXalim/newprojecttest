@@ -1,0 +1,17 @@
+body {
+	background:#fff;
+}
+
+ .product_title{
+	font-size: 30px;
+	text-transform: uppercase;
+	letter-spacing: .2em;
+	padding-top: 15px;
+	padding-bottom: 10px;
+	
+}
+
+.errorlist li{
+	color:red;
+	font-weight:bold;
+}
